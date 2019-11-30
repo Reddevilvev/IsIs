@@ -1,0 +1,6 @@
+1. скачать студию-  https://tools.hana.ondemand.com/#sapui5
+1.1.  запустить orion.exe и eclipsec.exe
+1.2.  зайти в браузере на http://localhost:8080/mixloginstatic/LoginWindow.html
+
+2. документация,  примеры,  api: https://openui5.hana.ondemand.com/
+

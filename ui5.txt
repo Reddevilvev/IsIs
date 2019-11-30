@@ -1,10 +1,11 @@
-1. скачать студию-  https://tools.hana.ondemand.com/#sapui5 ( SAP Web IDE Trial Personal Edition)
+1. скачать студию-  https://tools.hana.ondemand.com/#sapui5
 1.1.  запустить orion.exe и eclipsec.exe
-1.2.  зайти в браузере на http://localhost:8080/mixloginstatic/LoginWindow.html
+1.2.  зайти в браузере на http://localhost:8080/webide/index.html - регистрируемся и заходим
 
 2. документация,  примеры,  api: https://openui5.hana.ondemand.com/
 2.1. заходим в demo apps
 2.2. скачиваем master-detail
-3.3. импортируем проект в свой локальный WEB IDE 
+2.3. импортируем проект в свой локальный WEB IDE 
 
-
+3. облачная платформа
+https://account.hana.ondemand.com/#/home/welcome - регистрируемся

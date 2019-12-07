@@ -9,3 +9,8 @@
 
 3. облачная платформа
 https://account.hana.ondemand.com/#/home/welcome - регистрируемся
+
+Отличная статья по созданию приложения
+https://m.habr.com/ru/company/sap/blog/261023/
+
+
